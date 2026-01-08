@@ -5,47 +5,115 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Privacy Policy</title>
     <style>
+        /* General Reset and Body Styles */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
         body {
             font-family: Arial, sans-serif;
             line-height: 1.6;
-            margin: 0;
-            padding: 0;
             background-color: #f9f9f9;
             color: #333;
+            padding: 0 10px;
         }
+
+        /* Header Style */
         header {
             background-color: #333;
             color: #fff;
-            padding: 10px 20px;
+            padding: 15px 20px;
             text-align: center;
         }
+
+        /* Main Content Style */
         main {
-            padding: 20px;
-            max-width: 800px;
+            max-width: 900px;
             margin: 20px auto;
+            padding: 20px;
             background-color: #fff;
             border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
         }
-       
+
+        h1 {
+            color: #333;
+            font-size: 2.5rem;
+            margin-bottom: 15px;
+        }
+
         h2 {
             color: #444;
+            font-size: 1.75rem;
+            margin-top: 20px;
         }
+
         p {
-            font-size: 16px;
-            margin: 10px 0;
+            font-size: 1rem;
+            margin-bottom: 1.5rem;
         }
+
         .section-title {
             font-weight: bold;
+            font-size: 1.2rem;
         }
+
+        /* Footer Style */
         footer {
             text-align: center;
-            padding: 10px;
+            padding: 15px;
             background-color: #333;
             color: #fff;
-            position: fixed;
-            width: 100%;
+            position: relative;
             bottom: 0;
+            width: 100%;
+        }
+
+        /* Media Queries for Responsiveness */
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 2rem;
+            }
+
+            h2 {
+                font-size: 1.5rem;
+            }
+
+            p {
+                font-size: 0.95rem;
+            }
+
+            main {
+                padding: 15px;
+                margin: 10px;
+            }
+
+            footer {
+                padding: 10px;
+            }
+        }
+
+        @media (max-width: 480px) {
+            h1 {
+                font-size: 1.8rem;
+            }
+
+            h2 {
+                font-size: 1.4rem;
+            }
+
+            p {
+                font-size: 0.9rem;
+            }
+
+            main {
+                padding: 10px;
+            }
+
+            footer {
+                padding: 8px;
+            }
         }
     </style>
 </head>
@@ -80,7 +148,7 @@
     <p>We may update this privacy policy from time to time. Any changes will be posted on this page with an updated revision date. Please review this policy periodically for any updates.</p>
 
     <h2>Contact Information</h2>
-    <p>If you have any questions or concerns about this privacy policy, feel free to contact us at <a href="mailto:socceriqsport@gmail.com">socceriqsport@gmail.com</a>.</p>
+    <p>If you have any questions or concerns about this privacy policy, feel free to contact us at <a href="mailto:support@example.com">support@example.com</a>.</p>
 </main>
 
 <footer>
