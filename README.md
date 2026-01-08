@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -38,7 +38,7 @@
         }
 
         h1 {
-            color: #333;
+         
             font-size: 2.5rem;
             margin-bottom: 15px;
         }
@@ -148,7 +148,7 @@
     <p>We may update this privacy policy from time to time. Any changes will be posted on this page with an updated revision date. Please review this policy periodically for any updates.</p>
 
     <h2>Contact Information</h2>
-    <p>If you have any questions or concerns about this privacy policy, feel free to contact us at <a href="mailto:support@example.com">support@example.com</a>.</p>
+    <p>If you have any questions or concerns about this privacy policy, feel free to contact us at <a href="mailto:socceriqsport@gmail.com">socceriqsport@gmail.com</a>.</p>
 </main>
 
 <footer>
