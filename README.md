@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -64,11 +64,19 @@
     <h2>Data Collection</h2>
     <p>We do not collect any personal data or any information that can identify you. Our app is designed to function without the need for any personal information or user data collection.</p>
 
+    <h2>Firebase SDK Data Interaction</h2>
+    <p>Our app uses Firebase, a service provided by Google, which may collect certain data automatically, such as usage data and analytics. Firebase may collect data such as your device's IP address, device type, and activity in the app. This data is used to provide better functionality, track app usage, and improve the performance of the app.</p>
+    <p>We do not access or use this data for any other purposes and do not share it with third parties. Firebase adheres to its own privacy policy, which you can review at <a href="https://firebase.google.com/support/privacy" target="_blank">Firebase Privacy Policy</a>.</p>
+
     <h2>Third-Party Services</h2>
-    <p>Our app does not use any third-party services that may collect your personal information. We do not integrate with analytics, advertising, or any other external services that would track your personal data.</p>
+    <p>Our app does not use any third-party services that may collect your personal information, aside from Firebase for analytics and performance purposes as described above.</p>
 
     <h2>Age Restriction</h2>
     <p>Our app is intended for users who are 18 years or older. By using this app, you confirm that you are at least 18 years of age.</p>
+
+    <h2><span class="section-title">Disclaimer</span></h2>
+    <p>The app and its contents are provided "as is" without any representations or warranties, express or implied. We do not guarantee the accuracy, completeness, or reliability of any content or information provided through the app. Your use of the app is at your own risk, and we are not liable for any damages arising from your use of the app, including any errors, omissions, or interruptions in service.</p>
+    <p>While we take reasonable steps to secure your data, no method of transmission over the internet or electronic storage is completely secure. We cannot guarantee the absolute security of your data, and you acknowledge this risk when using the app.</p>
 
     <h2>Changes to this Policy</h2>
     <p>We may update this privacy policy from time to time. Any changes will be posted on this page with an updated revision date. Please review this policy periodically for any updates.</p>
