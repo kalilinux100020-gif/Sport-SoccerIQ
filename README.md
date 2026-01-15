@@ -152,7 +152,7 @@
 </main>
 
 <footer>
-    <p>&copy; 2026 Your Company Name. All rights reserved.</p>
+    <p>&copy; 2026 Sport SoccerIQ. All rights reserved.</p>
 </footer>
 
 </body>
